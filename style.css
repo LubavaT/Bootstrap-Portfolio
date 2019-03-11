@@ -1,0 +1,54 @@
+body  {
+    background-image: url("background.jpg");
+    background-color: #cccccc;
+  }
+
+.navbar-default {
+    color: black;
+    background-color: #76b5be;
+    border-color: #E7E7E7;
+    border-bottom: 2px solid white;
+    }   
+
+#main-container {
+    background-color: #ebdfbf;
+    margin-top: 20px;
+    size: 
+}
+
+#Luba-Tcybina {
+    position: fixed;
+    z-index: 99;
+    width: 10%;
+    overflow: auto;
+    color: #ffffff;
+    background: #ffffff;
+    border-bottom: 17px solid #ffffff;
+    border-top: 18px #ffffff;
+    
+}
+
+#my-name {
+    font-size: 20px;
+    color: #76b5be;
+}
+
+#main-stuff {
+    padding-bottom: 15px;
+    padding-top: 30px;
+}
+
+#about-me {
+    font-size: 30px;
+    color: #76b5be;
+    font-weight: bold;
+}
+
+.col-9 {
+    font-size: 20px;
+    }
+
+#rockpaperscissors {
+    
+    width: 50%;
+}
